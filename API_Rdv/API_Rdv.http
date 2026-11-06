@@ -1,0 +1,6 @@
+@API_Rdv_HostAddress = http://localhost:5266
+
+GET {{API_Rdv_HostAddress}}/api/Salles
+Accept: application/json
+
+###
